@@ -1,9 +1,8 @@
-package dk.au.mad21spring.assignment2.au600586.refactor;
+package dk.au.mad21spring.assignment2.au600586.viewmodels;
 
-import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-//public class ListViewModel extends ViewModel {
+public class ListViewModel extends ViewModel {
 //    private MutableLiveData<List<City>> cities;
 //    public LiveData<List<City>> getCities() {
 //        if (cities == null) {
@@ -16,4 +15,4 @@ import androidx.lifecycle.ViewModel;
 //    private void loadCities() {
 //
 //    }
-//}
+}
